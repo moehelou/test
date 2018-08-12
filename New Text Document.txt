@@ -1,0 +1,6 @@
+RUN MULTI HTTP REQUEST
+
+https://www.romaniancoder.com/execute-multiple-http-requests-angular/
+
+
+https://www.metaltoad.com/blog/angular-2-http-observables-and-concurrent-data-loading
